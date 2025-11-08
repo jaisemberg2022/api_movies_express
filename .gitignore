@@ -15,3 +15,5 @@ build/
 
 #json
 package-lock.json
+
+.vercel
