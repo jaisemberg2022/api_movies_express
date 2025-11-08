@@ -12,8 +12,3 @@ logs/
 # Build output
 dist/
 build/
-
-#json
-package-lock.json
-
-.vercel
